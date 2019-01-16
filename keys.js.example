@@ -11,9 +11,9 @@
 
 module.exports = {
   dev: {
-    google: '"AIzaSyCq8bCRNBqSXfcVLAE5GaXNSv6j4BAItcQ"'
+    google: '"KEY"'
   },
   prod: {
-    google: '"AIzaSyCq8bCRNBqSXfcVLAE5GaXNSv6j4BAItcQ"'
+    google: '"KEY"'
   }
 }
