@@ -11,9 +11,9 @@
 
 module.exports = {
   dev: {
-    google: '"KEY_HERE"'
+    google: '"AIzaSyCq8bCRNBqSXfcVLAE5GaXNSv6j4BAItcQ"'
   },
   prod: {
-    google: '"KEY_HERE"'
+    google: '"AIzaSyCq8bCRNBqSXfcVLAE5GaXNSv6j4BAItcQ"'
   }
 }
